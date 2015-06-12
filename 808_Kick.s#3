@@ -16124,7 +16124,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="SUPPLY9" gate="GND" x="20.32" y="109.22"/>
 <instance part="SUPPLY10" gate="GND" x="12.7" y="106.68"/>
 <instance part="SUPPLY11" gate="GND" x="7.62" y="101.6"/>
-<instance part="SUPPLY12" gate="GND" x="-5.08" y="50.8"/>
+<instance part="SUPPLY12" gate="GND" x="-5.08" y="48.26"/>
 <instance part="SUPPLY13" gate="GND" x="-20.32" y="45.72"/>
 <instance part="SUPPLY14" gate="GND" x="-33.02" y="60.96"/>
 <instance part="SUPPLY15" gate="GND" x="-45.72" y="76.2" rot="R90"/>
@@ -16351,6 +16351,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <segment>
 <pinref part="Q1" gate="G$1" pin="E"/>
 <pinref part="SUPPLY12" gate="GND" pin="GND"/>
+<wire x1="-5.08" y1="50.8" x2="-5.08" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R2" gate="G$1" pin="1"/>
