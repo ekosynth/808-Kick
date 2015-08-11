@@ -1,0 +1,61 @@
+Partlist exported from C:/Users/Jack/Documents/GitHub/808-Kick/808_Kick.sch at 08/07/2015 18:48
+
+Part     Value  Device          Package      Description                          
+ACC      M02PTH M02PTH          1X02         Standard 2-pin 0.1" header. Use with 
+C1       0.1u   C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C2       0.47u  CPOL-EUE2,5-6E  E2,5-6E      POLARIZED CAPACITOR, European symbol 
+C3       1u     CPOL-EUE2,5-6E  E2,5-6E      POLARIZED CAPACITOR, European symbol 
+C4       47u    CPOL-EUE2,5-6E  E2,5-6E      POLARIZED CAPACITOR, European symbol 
+C5       0.47u  CPOL-EUE2,5-6E  E2,5-6E      POLARIZED CAPACITOR, European symbol 
+C6       33u    CPOL-EUE2,5-6E  E2,5-6E      POLARIZED CAPACITOR, European symbol 
+C7       47u    CPOL-EUE2,5-6E  E2,5-6E      POLARIZED CAPACITOR, European symbol 
+C8       0.1u   C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C9       15n    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C10      0.1u   C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C11      15n    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C12      33n    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C13      220p   C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+C14      15n    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol           
+D1       1N4148 DIODE-D-2.5     D-2.5        DIODE                                
+D2       1N4148 DIODE-D-2.5     D-2.5        DIODE                                
+D3       1N914  DIODE-D-2.5     D-2.5        DIODE                                
+DCAY            M03PTH          1X03         Header 3                             
+FREQ            M03PTH          1X03         Header 3                             
+IC1      TL072P TL072P          DIL08        OP AMP                               
+LEV             M03PTH          1X03         Header 3                             
+OUT      M02PTH M02PTH          1X02         Standard 2-pin 0.1" header. Use with 
+Q1       BC546A BC546A          TO92-EBC     NPN Transistor                       
+Q2       BC546A BC546A          TO92-EBC     NPN Transistor                       
+Q3       BC546A BC546A          TO92-EBC     NPN Transistor                       
+Q4       BC546A BC546A          TO92-EBC     NPN Transistor                       
+Q5       BC546A BC546A          TO92-EBC     NPN Transistor                       
+Q6       BC556  BC556           TO92-EBC     PNP Transistror                      
+R1       22k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R2       10k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R3       100k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R4       4.7k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R5       8.2k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R6       2.7k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R7       1M     R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R8       220    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R9       22k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R10      100k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R11      47k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R12      1k     R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R13      5.9k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R14      100k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R15      82k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R16      1M     R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R17      5.9k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R19      100k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R20      42.2k  R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R21      10k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R22      1M     R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R23      4.7k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R24      470k   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R25      22k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R26      100K   R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+R27      10k    R-EU_0207/2V    0207/2V      RESISTOR, European symbol            
+TONE            M03PTH          1X03         Header 3                             
+TRIG     M02PTH M02PTH          1X02         Standard 2-pin 0.1" header. Use with 
+_-__G_+_        M03PTH          1X03         Header 3                             
